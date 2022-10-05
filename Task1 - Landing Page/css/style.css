@@ -1,0 +1,168 @@
+body {
+    background-image: url(https://media.istockphoto.com/vectors/smooth-pink-holographic-design-for-pattern-and-background-vector-id1323975734?k=20&m=1323975734&s=612x612&w=0&h=gvoUww_YgFIe24_zqQmu3OBh7uP8ilaUFXTWN2IqbTk=);
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+}
+
+h6 {
+    font-size: 30px;
+    color: rgb(38, 132, 158);
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 0px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.about {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h4 {
+    align-content: center;
+    text-align: center;
+    font-family: cursive;
+    color: rgb(114, 165, 24);
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    float: right;
+    display: block;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 44px 46px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: dimgray;
+}
+
+.content {
+    height: 90%;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.4);
+    background-attachment: fixed;
+}
+
+.content .images {
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+h2 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.images img {
+    height: 50%;
+    width: 100%;
+    filter: brightness(50%);
+}
+
+.centered {
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: 600;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: lightgray;
+}
+
+.centered h1 {
+    font-size: 40px;
+    font-weight: 100;
+    font-family: cursive;
+    color: white;
+}
+
+.wel {
+    font-size: 40px;
+
+    font-family: cursive;
+    color: black;
+}
+
+.table table {
+    text-align: center;
+    align-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h5 {
+    text-align: center;
+    align-content: center;
+    font-size: 20px;
+}
+
+.table table img {
+    box-shadow: 1px 1px 15px rgba(30, 207, 59, 0.4);
+}
+
+.footer table {
+    padding-left: 0px;
+    text-align: center;
+    align-content: center;
+}
+
+.footer table body {
+    background-color: rgb(50, 27, 113);
+}
+
+h3 {
+    font-size: 40px;
+    color: rgb(33, 161, 67);
+    text-align: center;
+    align-content: center;
+
+}
+
+form {
+    font-size: 30px;
+    background-color: dimgray;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    padding: 40px;
+
+}
+
+button {
+    font-size: 20px;
+}
+
+input {
+    font-size: 20px;
+}
