@@ -11,9 +11,15 @@ This had given me a wonderful exposure to the tasks projects and explore it to m
 
 Task 1 - *Landing Page*
 
+LinkedIn Post : https://www.linkedin.com/posts/prathima-kadari-6a4aa9209_github-prathimacode-huboibsipseptember-submission-activity-6983504930749775872-wZom?utm_source=share&utm_medium=member_desktop
+
 Task 2 - *Portfolio Page*
 
+LinkedIn Post : https://www.linkedin.com/posts/prathima-kadari-6a4aa9209_github-prathimacode-huboibsipseptember-submission-activity-6983507403283607553-yvpU?utm_source=share&utm_medium=member_desktop
+
 Task 3 - *Temperature Converter Website*
+
+LinkedIn Post : https://www.linkedin.com/posts/prathima-kadari-6a4aa9209_github-prathimacode-huboibsipseptember-submission-activity-6983507831853375488-cmig?utm_source=share&utm_medium=member_desktop
 
 ## Demo Video
 
