@@ -27,7 +27,7 @@ Link : https://drive.google.com/file/d/1WhhR_LqfW0MfQnR9HK5guQhVk6-Spmwf/view?us
 
 ## LinkedIn Post with Demo Video Explaining All The Tasks
 
-Link : https://www.linkedin.com/posts/prathima-kadari-6a4aa9209_oasisinfobyte-internship-web-activity-6983502304419229696-HXW3?utm_source=share&utm_medium=member_desktop
+Link : https://www.linkedin.com/posts/prathima-kadari-6a4aa9209_oasis-infobyte-internship-offer-letter-activity-6983513090935988224-AnMJ?utm_source=share&utm_medium=member_desktop
 
 ## Blog Post 
 
