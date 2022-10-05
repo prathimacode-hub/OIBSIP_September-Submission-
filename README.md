@@ -10,5 +10,7 @@ IDE - VS Code Editor
 This had given me a wonderful exposure to the tasks projects and explore it to my best potential for the deliverables.
 
 Task 1 - *Landing Page*
+
 Task 2 - *Portfolio Page*
+
 Task 3 - *Temperature Converter Website*
