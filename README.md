@@ -31,4 +31,4 @@ Link : https://www.linkedin.com/posts/prathima-kadari-6a4aa9209_oasis-infobyte-i
 
 ## Blog Post 
 
-Link : 
+Link : https://www.linkedin.com/pulse/my-oasis-infobyte-internship-experience-prathima-kadari/
